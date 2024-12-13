@@ -34,11 +34,12 @@
 <a href="mailto:kudretkrbyk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </p>
+
+
 ## My projects
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
 [Live Link](https://gilber.kudretkrbyk.com.tr/)|  | [Gilber personal portfolio web site ](https://github.com/kudretkrbyk/wordpressGilber)
-
 
 
 
