@@ -1,6 +1,6 @@
 
 
-<div> 
+<div style="width:100%" align="left"> 
 ### 👋 Hi there! I'am Kudret
 ## About Me :point_down:
 :point_right:I like explore  new technologies and I like making people's lives easier with software.
