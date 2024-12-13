@@ -40,7 +40,9 @@
 ## My projects
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
-[Live Link](https://gilber.kudretkrbyk.com.tr/)|  | [Gilber personal portfolio web site ](https://github.com/kudretkrbyk/wordpressGilber)
+[Live Link](https://gilber.kudretkrbyk.com.tr/)|sdsd  | [Gilber personal portfolio web site ](https://github.com/kudretkrbyk/wordpressGilber)
+[Live Link](https://bemins.kudretkrbyk.com.tr/)|  | [Gilber personal portfolio web site ](https://github.com/kudretkrbyk/WordpressBemins)
+
 
 
 
