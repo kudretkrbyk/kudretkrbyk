@@ -45,6 +45,7 @@
 [Live Link](https://analogwatch.kudretkrbyk.com.tr/)|React, tailwindcss,  | [Frontend web site ](https://github.com/kudretkrbyk/analogWatch)
 [Live Link](https://tripogames.kudretkrbyk.com.tr/)|React, tailwindcss,react-icons,react-router-dom,react-scroll-parallax  | [TripoGames web site](https://github.com/kudretkrbyk/tripoGames)
 [Live Link](https://soundbeam.kudretkrbyk.com.tr/)|React, tailwindcss, react-gsap, react-router, react-scroll, react-scroll-parallax, react-slick  | [SoundBeam wix web site](https://github.com/kudretkrbyk/sounBeamTemplateClone)
+[Live Link](https://quicklearn.kudretkrbyk.com.tr/)|React, tailwindcss,slick-carousel,gsap,react-slick  | [QuickLearn wordpress web site](https://github.com/kudretkrbyk/quickLearnCloneReactWithTailwindCss)
 
 
 
