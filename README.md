@@ -1,7 +1,7 @@
 
 
 <div style="text-align: center; margin: 0 auto; width: 100%;"> 
-### 👋 Hi there! I'am Kudret
+### 👋 Hi there! I'am Kudret <br>
 ## About Me :point_down:
 :point_right:I like explore  new technologies and I like making people's lives easier with software.
 
