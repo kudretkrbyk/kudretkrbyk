@@ -41,6 +41,7 @@
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
 [Live Link](https://gilber.kudretkrbyk.com.tr/)|React, tailwindcss,bootstrap,react-bootstrap,react-icons,react-scroll,react-slick  | [Gilber personal portfolio web site ](https://github.com/kudretkrbyk/wordpressGilber)
+[Live Link](https://gilber.kudretkrbyk.com.tr/)|React, tailwindcss,bootstrap,react-bootstrap,react-icons,react-scroll,react-slick  | [Gilber personal portfolio web site ](https://github.com/kudretkrbyk/wordpressGilber)
 [Live Link](https://bemins.kudretkrbyk.com.tr/)|React, tailwindcss,reduxjs/toolkit,jQuery,react-icons,react-redux,react-router,react-slick,react-slider | [Bemins e-commerce web site](https://github.com/kudretkrbyk/WordpressBemins)
 [Live Link](https://analogwatch.kudretkrbyk.com.tr/)|React, tailwindcss,  | [Frontend web site ](https://github.com/kudretkrbyk/analogWatch)
 [Live Link](https://tripogames.kudretkrbyk.com.tr/)|React, tailwindcss,react-icons,react-router-dom,react-scroll-parallax  | [TripoGames web site](https://github.com/kudretkrbyk/tripoGames)
